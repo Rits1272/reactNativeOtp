@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "121951289629",
+    "firebase_url": "https://django-project-1552240590382.firebaseio.com",
+    "project_id": "django-project-1552240590382",
+    "storage_bucket": "django-project-1552240590382.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121951289629:android:8435eb7a2f32504a9861f4",
+        "android_client_info": {
+          "package_name": "com.stockpe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121951289629-rh0qlufs0nk0159mnugqbmabkmdrc5ep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stockpe",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "121951289629-e7g54rfh1isngnaoij8vtuckd2r26cif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5RUkJAYj8gIMj6YpWHbObLODQ6CAsRCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121951289629-e7g54rfh1isngnaoij8vtuckd2r26cif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
